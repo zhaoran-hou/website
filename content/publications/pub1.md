@@ -1,5 +1,5 @@
 ---
-title: "Particle Gibbs for Likelihood-Free Inference of State Space Models with Application to Stochastic Volatilit"
+title: "Particle Gibbs for Likelihood-Free Inference of State Space Models with Application to Stochastic Volatility"
 authors:
 - Zhaoran Hou
 - Samuel W.K. Wong

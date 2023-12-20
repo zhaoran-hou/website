@@ -34,10 +34,10 @@ full_name: Zhaoran Hou
 headless: true
 interests:
 - Bayesian Statistics
-- MCMC methods
-- Computational Statistics
-- Machine Learning
-profile_picture: profile.png
+- MCMC
+- SMC
+- Approximate Bayesian Computation
+profile_picture: visa.jpg
 socials:
   github: hxl3416833
   google_scholar: citations?hl=en&user=w-T12_4AAAAJ&view_op=list_works&sortby=pubdate

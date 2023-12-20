@@ -4,27 +4,28 @@ academia:
     degree: Ph.D.
     institution: University of Waterloo
     major: Statistics
+    other_info: Adviser, Samuel W.K. Wong
     start_date: "2019"
 - course:
     degree: MMMath.
     end_date: "2019"
-    institution: Sharif University of Technology
+    institution: University of Waterloo
     major: Software Engineering
-    other_info: graduated without first class honor, supervised by Prof. Very Cool!
+    other_info: Adviser, Gregory Rice
     start_date: "2018"
 - course:
     degree: B.Sc.
     end_date: "2018"
-    institution: University of Tornoto
+    institution: University of Toronto
     major: Mathematics
     minor: Statistics
-    other_info: graduated with first class honor, supervised by Prof.  Cool!
+    other_info: graduated with distinction
     start_date: "2015"
 affiliations:
 - affiliation:
-    email: email@cs.stanford.edu
-    name: Stanford University
-    title: Ph.D.
+    email: zhaoran.hou@uwaterloo.ca
+    name: University of Waterloo
+    title: Ph.D. Candidate
 - affiliation:
     email: email@mycoolstartup.ai
     name: The Coolest Startup In the World
@@ -36,10 +37,10 @@ draft: false
 full_name: Zhaoran Hou
 headless: true
 interests:
-- Data Intensive Systems
-- Distributed Systems
-- Data Streaming Platforms
-- Large-Scale Data Processing Platforms
+- Bayesian Statistics
+- MCMC methods
+- Computational Statistics
+- Machine Learning
 profile_picture: profile.png
 socials:
   facebook: YOUR_NAME

@@ -14,12 +14,12 @@ academia:
     other_info: Adviser, Gregory Rice
     start_date: "2018"
 - course:
-    degree: B.Sc.
+    degree: H.B.Sc.
     end_date: "2018"
     institution: University of Toronto
     major: Statistics
     minor: Economics and Mathematics
-    other_info: graduated with distinction
+    other_info: graduated with high distinction
     start_date: "2015"
 affiliations:
 - affiliation:

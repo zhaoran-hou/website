@@ -1,9 +1,10 @@
 ---
-title: "Vestibulum: Olive Tadpole Pit Bull Terrier"
+title: "Bandwidth Selection for Estimation of the Long-run Covariance of Functional Time Series via Semi-parametric Methods."
 
-date: "2019-03-30"
+date: "20024-03-30"
 
 links:
-    website: 'https://github.com/hadisinaee/avicenna'
+    website: ''
 ---
-
+links:
+    website: 'https://github.com/hadisinaee/avicenna'

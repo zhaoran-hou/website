@@ -7,8 +7,8 @@ content_type: "projects"
 
 section_settings:
     show_section: true
-    title: ''
-    subtitle: 'Custom Subtitle: see my github for the complete list'
+    title: 'Ongoing projects.'
+    subtitle: 'Only some projects are displayed. For the complete list, see my CV.'
 ---
 
 home/projects.md

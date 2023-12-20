@@ -45,6 +45,6 @@ socials:
 title: about
 ---
 
-**About me**: Hello, I am Zhaoran Hou, a final year PhD student majoring in statistics, under the supervision of Prof. [Samuel W.K. Wong](https://swong.ca/).
+Hello, I am Zhaoran Hou, often go by Eric. I am a final year PhD student majoring in statistics at the [University of Waterloo](https://uwaterloo.ca/), under the supervision of Prof. [Samuel W.K. Wong](https://swong.ca/). I previously obtained my MMath in statistics in the same department, working with Prof. [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/greg-rice), and undergrad from the [University of Toronto](https://www.utoronto.ca/).
 
-[1]: ahadsfsa.com
+**News**: I expect to graduate in May 2024, and I am currently seeking new positions. Please do not hesitate to contact me. Thanks you!

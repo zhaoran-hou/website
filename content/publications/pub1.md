@@ -1,17 +1,12 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Particle Gibbs for Likelihood-Free Inference of State Space Models with Application to Stochastic Volatilit"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- Zhaoran Hou
+- Samuel W.K. Wong
+date: "2024-12-01"
 
-publication: "Journal of Machine Learning"
+publication: "Preprint"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
-
 ---
 

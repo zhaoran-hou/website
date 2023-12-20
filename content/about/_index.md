@@ -26,8 +26,8 @@ affiliations:
     email: zhaoran.hou@uwaterloo.ca
     name: University of Waterloo
     title: Ph.D. Candidate
-blog: true
-cv: cv.pdf
+blog: false
+cv: CV_Zhaoran_Hou1220.pdf
 date: "2020-10-20T17:51:47+03:30"
 draft: false
 full_name: Zhaoran Hou
@@ -39,15 +39,12 @@ interests:
 - Machine Learning
 profile_picture: profile.png
 socials:
-  github: YOUR_NAME
-  google_scholar: YOUR_NAME
-  linkedin: YOUR_NAME
+  github: hxl3416833
+  google_scholar: citations?hl=en&user=w-T12_4AAAAJ&view_op=list_works&sortby=pubdate
+  linkedin: zhaoran-hou-61b93a135
 title: about
 ---
 
 **About me**: Hello, I am Zhaoran Hou, a final year PhD student majoring in statistics, under the supervision of Prof. [Samuel W.K. Wong](https://swong.ca/).
-
-
-
 
 [1]: ahadsfsa.com

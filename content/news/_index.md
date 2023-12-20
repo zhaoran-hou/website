@@ -31,6 +31,6 @@ news_items:
   link: https://https://feathericons.com//
   text: How to write a good paper?
 num_news: 5
-show_news_icons: true
+show_news_icons: false
 title: news
 ---

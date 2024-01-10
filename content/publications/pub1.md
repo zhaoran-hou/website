@@ -8,6 +8,6 @@ date: "2024-12-01"
 publication: "Preprint"
 
 links:
-  arXiv link: https://arxiv.org/abs/2312.13044
+  arXiv: https://arxiv.org/abs/2312.13044
 ---
 

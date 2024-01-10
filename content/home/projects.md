@@ -6,7 +6,7 @@ weight: 4
 content_type: "projects"
 
 section_settings:
-    show_section: true
+    show_section: false
     title: 'Ongoing projects.'
     subtitle: 'Only some projects are displayed. For the complete list, see my CV.'
 ---

@@ -11,7 +11,7 @@ academia:
     end_date: "2019"
     institution: University of Waterloo
     major: Statistics
-    other_info: Adviser, Gregory Rice
+    other_info: Adviser, Greg Rice
     start_date: "2018"
 - course:
     degree: H.B.Sc.

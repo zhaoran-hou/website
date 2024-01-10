@@ -11,7 +11,7 @@ academia:
     end_date: "2019"
     institution: University of Waterloo
     major: Statistics
-    other_info: Adviser, Greg Rice
+    other_info: Adviser, Gregory Rice
     start_date: "2018"
 - course:
     degree: H.B.Sc.
@@ -47,4 +47,4 @@ title: about
 
 Hello, I am Zhaoran Hou, often go by Eric. I am a final year PhD student majoring in statistics at the [University of Waterloo](https://uwaterloo.ca/), under the supervision of Prof. [Samuel W.K. Wong](https://swong.ca/). I previously obtained my MMath in statistics in the same department, working with Prof. [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/greg-rice), and undergrad from the [University of Toronto](https://www.utoronto.ca/).
 
-**News**: I expect to graduate in May 2024, and I am currently seeking new positions. Please do not hesitate to contact me. Thanks you!
+**News**: I expect to graduate in April 2024, and I am currently seeking PDF positions. Please do not hesitate to contact me. Thanks you!

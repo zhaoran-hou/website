@@ -37,6 +37,7 @@ interests:
 - MCMC
 - SMC
 - Approximate Bayesian Computation
+- Time Series Analysis
 profile_picture: visa.jpg
 socials:
   github: hxl3416833

@@ -25,8 +25,8 @@ academia:
 affiliations:
 - affiliation:
     email: zhaoran.hou@uwaterloo.ca
-    name: University of Waterloo
-    title: Ph.D. Candidate
+    name: Canadian Imperial Bank of Commerce
+    title: Senior Quantitative Analyst
 blog: false
 cv: CV_Zhaoran_Hou1220.pdf
 date: "2020-10-20T17:51:47+03:30"
@@ -41,12 +41,12 @@ interests:
 - Approximate Bayesian Computation
 profile_picture: visa.jpg
 socials:
-  github: hxl3416833
+  github: zhaoran-hou
   google_scholar: citations?hl=en&user=w-T12_4AAAAJ&view_op=list_works&sortby=pubdate
-  linkedin: zhaoran-hou-61b93a135
+  linkedin: zhaoran-hou
 title: about
 ---
 
-Hello, I am Zhaoran Hou, often go by Eric. I completed my PhD in statistics at the [University of Waterloo](https://uwaterloo.ca/), under the supervision of [Samuel W.K. Wong](https://swong.ca/). I previously obtained my MMath in statistics in the same department, working with [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/greg-rice), and undergrad from the [University of Toronto](https://www.utoronto.ca/).
+Hello, I am Zhaoran Hou, often go by Eric. I am currently a senior quant at [Canadian Imperial Bank of Commerce](https://www.cibc.com/) (CIBC). Previously, I completed my PhD and MMATH in statistics at the [University of Waterloo](https://uwaterloo.ca/), and H.B.Sc. from the [Unviersity of Toronto](https://www.utoronto.ca/).
 
 My interests are diverse, and I am happy to chat on new projects. Please do not hesitate to contact me. Thank you!
